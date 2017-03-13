@@ -1,0 +1,79 @@
+footer {
+	background-color: #E8E8E8;
+	color: #1C1C1C;
+	padding: 20px;
+}
+#rede-social {
+	background-color: #ADD8E6;
+	color: #1C1C1C;
+	padding: 20px;
+}
+#profissionais , #job{
+	background-color: #ADD8E6;
+	color: #1C1C1C;
+}
+#formacao {
+	background-color: #1E90FF;
+	color: #1C1C1C;
+}
+#mim {
+	background-color: #191970;
+	color: #D3D3D3;
+}
+.person {
+      border: 10px solid ;
+      margin-bottom: 25px;
+      width: 80%;
+      height: 80%;
+      opacity: 0.7;
+  }
+.person:hover {
+      border-color: #1C1C1C;
+}
+
+.panel-heading {
+	cursor: pointer;
+}
+
+#inicio {
+	background-color: white;
+	
+}
+
+.menu {
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	top: 25px;
+	left: 30px;
+	text-align: center;	
+	cursor: pointer;
+}
+
+.menu span {
+	position: fixed;	
+	font-size: 1.8em;
+}
+
+.menu-items {
+	position: fixed;	
+	left: 30px;
+	top: 75px;
+	background-color: #E8E8E8;
+	z-index: 1;
+}
+
+.menu-items li {
+	list-style: none;
+}
+	.menu-items li:hover {
+		color: #fff;
+	}
+
+.hide-menu {
+    display: none;
+}
+
+#paineis-sobre{
+	margin-top: 20px;
+}
