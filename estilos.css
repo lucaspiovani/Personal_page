@@ -9,16 +9,16 @@ footer {
 	padding: 20px;
 }
 #profissionais , #job{
-	background-color: #ADD8E6;
+	background-color: #E8E8E8;
 	color: #1C1C1C;
 }
 #formacao {
-	background-color: #1E90FF;
+	background-color: #ADD8E6;
 	color: #1C1C1C;
 }
 #mim {
-	background-color: #191970;
-	color: #D3D3D3;
+	background-color: white;
+	color: #1C1C1C;
 }
 .person {
       border: 10px solid ;
@@ -76,4 +76,7 @@ footer {
 
 #paineis-sobre{
 	margin-top: 20px;
+}
+#depoimentos {
+	background-color: black;
 }
